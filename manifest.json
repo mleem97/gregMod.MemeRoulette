@@ -1,0 +1,7 @@
+{
+    "author": "TeamGreg Modding",
+    "name": "gregMod.MemeRoulette",
+    "version": "1.0.0",
+    "description": "Random Meme Sound Roulette: pure silence interrupted at random times by meme sounds from Mods/Memes.",
+    "dependencies": []
+}
